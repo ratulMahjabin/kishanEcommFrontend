@@ -1,3 +1,6 @@
+#Description
+A web application to help the farmer to buy and sell product in a dedicated e-commerce and identify crop disease to prevent production loss.
+
 # Deployed app
 
 This project is deployed in netlify to see the demo click on(https://infallible-khorana-836787.netlify.app/).
